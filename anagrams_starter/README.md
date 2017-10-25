@@ -53,9 +53,6 @@ The user can give up and see the words that they did not guess.
 #### Difficulty
 <span style="background-color: #E0F7FA">In order to ensure that the game is not too difficult, the computer will only propose words that have at least 5 possible valid anagrams.</span>
 
-![Output sample](https://github.com/anandwana001/applied_cs_with_android_beginner_workshop/raw/master/anagrams_starter/anagram_gif.gif)
-
-
 #### Starter Code
 We have provided you with some [starter code](https://cswithandroid.withgoogle.com/content/assets/img/anagrams_starter.zip) that contains a 10,000-word dictionary and handles the UI portions of this game and you will be responsible for writing the AnagramDictionary class that handles all word manipulations.
 
