@@ -53,7 +53,7 @@ The user can give up and see the words that they did not guess.
 #### Difficulty
 <span style="background-color: #E0F7FA">In order to ensure that the game is not too difficult, the computer will only propose words that have at least 5 possible valid anagrams.</span>
 
-![Output sample](https://github.com/anandwana001/applied_cs_with_android_beginner_workshop/master/anagrams_starter/anagram_gif.gif)
+![Output sample](https://github.com/anandwana001/applied_cs_with_android_beginner_workshop/raw/master/anagrams_starter/anagram_gif.gif)
 
 
 #### Starter Code
@@ -114,12 +114,13 @@ Example
 With the base word 'post':
 
 Input | Output
---------|--------------------
+----- | ---------------------------------------------
 isGoodWord("nonstop")	| true
 isGoodWord("poster")		| false
 isGoodWord("lamp post")	| 	false
 isGoodWord("spots")	| 	true
 isGoodWord("apostrophe")	| 	false
+
 Checking whether a word is a valid dictionary word can be accomplished by looking at wordSet to see if it contains the word. Checking that the word does not contain the base word as a substring is left as a challenge!
 
 ##### getAnagramsWithOneMoreLetter
