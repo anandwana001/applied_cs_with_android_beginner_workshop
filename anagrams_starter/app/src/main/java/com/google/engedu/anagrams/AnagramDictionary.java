@@ -120,7 +120,7 @@ public class AnagramDictionary {
                 }
 
                 //remove all the notGoodWords
-                result.removeAll(removeList);
+                tempList.removeAll(removeList);
 
                 //add the list to the remaining list to be returned
                 result.addAll(tempList);
