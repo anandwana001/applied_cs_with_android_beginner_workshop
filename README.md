@@ -22,7 +22,6 @@ Applied CS is a free online course by Google designed to prepare you for your CS
 <img src="img/scarnes-dice.png" height = "150" width="150" >
 <img src="img/anagrams.png" height = "150" width="150"> 
 <img src="img/word-stack.png" height = "150" width="150">
-<img src="Posters/FirstWorkshop.png" height = "450" width="350" align="right"> 
     <br>
 <img src="img/ghost.png" height = "150" width="150" >
 <img src="img/word-ladder.png" height = "150" width="150" >
@@ -30,4 +29,8 @@ Applied CS is a free online course by Google designed to prepare you for your CS
     <br>
 <img src="img/black-hole.png" height = "150" width="150" >
 <img src="img/continental-divide.png" height = "150" width="150" >
+</p>
+
+<p align="center">
+<img src="Posters/FirstWorkshop.png" height = "440" width="270" hspace="5"> <img src="Posters/SecondWorkshop.png" height = "440" width="270" hspace="5"> <img src="Posters/ThirdWorkshop.png" height = "440" width="270" hspace="5">
 </p>
